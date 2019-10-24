@@ -66,7 +66,7 @@ def matrix_update(matrix, row, column, new_value)
    
   
  
-  new_value[0][2] = "Tiny Ewell"
+  matrix_update[0][2] = "Tiny Ewell"
   matrix_update
   
    
